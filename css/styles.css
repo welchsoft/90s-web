@@ -1,0 +1,60 @@
+
+body {
+  background-image: url("../images/brushedsteel4.jpg");
+  background-color: #d3d3d36e;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*
+ the dot specifies the class name in CSS
+*/
+.basic-layout {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff40;
+  font-size: 24px;
+  padding: 10px;
+}
+
+
+.home-list {
+  background-color: #d8ab2b;
+  font-size: 24px;
+  padding: 10px
+}
+
+.warning {
+}
+
+.positives {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  background-color: #0037ffb8;
+}
+
+.negatives {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  background-color: #ff0000b5;
+}
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.succ {
+  style="width:60%;"
+}
